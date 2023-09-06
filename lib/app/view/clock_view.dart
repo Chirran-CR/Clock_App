@@ -2,7 +2,7 @@ import "dart:async";
 import "dart:math";
 
 import "package:flutter/material.dart";
-import "package:custom_painter_basics/clock_view_painter.dart";
+import "package:custom_painter_basics/app/clock_view_painter.dart";
 
 class ClockView extends StatefulWidget {
   const ClockView({super.key});

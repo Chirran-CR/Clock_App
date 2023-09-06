@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import "package:custom_painter_basics/clock_view.dart";
+import "package:custom_painter_basics/app/view/clock_view.dart";
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

@@ -2,6 +2,9 @@
 
 "A new Flutter project."
 
+## Image:-
+
+![app Image](assets/images/flutter_clock_app.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.

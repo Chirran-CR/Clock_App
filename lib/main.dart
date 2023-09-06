@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import "package:custom_painter_basics/home_page.dart";
+import "package:custom_painter_basics/app/view/home_page.dart";
 
 void main() {
   runApp(const MyAppWidget());
